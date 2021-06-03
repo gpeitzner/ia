@@ -1,4 +1,4 @@
-# Inteligencia Artificial - Junio 2021
+# Inteligencia Artificial
 
 - Tarea 1
 - Tarea 2
