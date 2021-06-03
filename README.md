@@ -1,5 +1,7 @@
 # Inteligencia Artificial
 
+Guillermo Alfredo Peitzner Estrada - 201504468.
+
 ## Tarea 1
 
 1. [JavaScript](https://github.com/gpeitzner/ia/blob/main/tarea1/javascript.png)
