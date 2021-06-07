@@ -1,7 +1,29 @@
 <html>
-<body>
-<h2>Reflex agent</h2>
-<p id="log"></p>
-<script type="text/javascript" src="01_reflex_agent.js"></script>
-</body>
+	<style>
+		.flex-container {
+			display: flex;
+			justify-content: center;
+		}
+		.flex-item {
+			margin: 10%;
+		}
+	</style>
+	<body>
+		<h2>Reflex agent</h2>
+		<div class="flex-container">
+			<div class="flex-item">
+				<h2>Info</h2>
+				<p id="log"></p>
+			</div>
+			<div class="flex-item">
+				<h2>Current State</h2>
+				<p id="states"></p>
+			</div>
+			<div class="flex-item">
+				<h2>Visited States</h2>
+				<p id="states_visited"></p>
+			</div>
+		</div>
+		<script type="text/javascript" src="01_reflex_agent.js"></script>
+	</body>
 </html>
