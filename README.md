@@ -4,8 +4,7 @@ Guillermo Alfredo Peitzner Estrada - 201504468.
 
 ## Tarea 1
 
-1. [JavaScript](https://github.com/gpeitzner/ia/blob/main/tarea1/javascript.png)
-2. [Python](https://github.com/gpeitzner/ia/blob/main/tarea1/python.jpg)
+[Certificados](https://gpeitzner.github.io/ia/tarea1/)
 
 ## Tarea 2
 
