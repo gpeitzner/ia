@@ -13,3 +13,7 @@ Guillermo Alfredo Peitzner Estrada - 201504468.
 ## Tarea 3
 
 [Solución](https://gpeitzner.github.io/ia/tarea3/imagen.jpg)
+
+## Proyecto
+
+[Solución](https://gpeitzner.github.io/ia/proyecto/index.html)
