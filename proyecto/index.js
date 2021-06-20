@@ -1,3 +1,3 @@
 let bodyElement = document.getElementById("body");
 
-bodyElement.innerText = 23;
+bodyElement.innerText = 35;
