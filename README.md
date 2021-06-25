@@ -16,4 +16,4 @@ Guillermo Alfredo Peitzner Estrada - 201504468.
 
 ## Proyecto
 
-[Solución](https://gpeitzner.github.io/ia/proyecto/index.html)
+[Solución](https://gpeitzner.github.io/ia/proyecto/index.js)
